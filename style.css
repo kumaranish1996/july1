@@ -1,0 +1,67 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.navbar{
+   
+    color: rgb(255, 255, 255);
+    background: #000000;
+    padding:16px 20px;
+}
+.head{
+    padding:30px 20px;
+}
+.para{
+    padding:0px 20px; 
+}
+.button{
+    background: #000000;
+    color:white;
+     
+     padding: 10px 10px;
+}
+.button a{
+    color:white;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+
+.div1{
+    padding:20px 20px;
+}
+
+.modi{
+ padding:0px 20px;
+}
+.modi img{
+    width:500px;
+   height:600px;
+}
+
+.div3{
+  padding:20px 20px;
+}
+
+.div3 .order{
+  padding:20px 20px;
+
+}
+
+table , tr , th{
+    border:1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding:20px 20px;
+}
+tr .startup{
+    width:10%;
+    
+}
+table{
+    padding:20px;
+}
+
+.seven{
+    background: #000000;
+    color:white;
+}
